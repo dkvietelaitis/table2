@@ -1,0 +1,33 @@
+*
+{
+    font-family: 'Inconsolata';
+}
+table
+{
+    border-collapse: collapse;
+    border: 5px solid white;
+    margin: 50px auto;
+}
+th, td
+{
+    border: 2px solid white;
+    text-align: left;
+    padding: 20px;
+    width: 150px;
+}
+th
+{
+    background: rgb(140, 43, 135);
+    color: white;
+    font-size: 20px;
+}
+td
+{
+    background: rgb(250, 152, 239);
+    font-size: 20px;
+    color: white;
+}
+.color-2
+{
+    background: rgb(171, 94, 162);
+}
